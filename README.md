@@ -1,3 +1,3 @@
 <html>
-  <p>Dibuat karna  :)<p>
+  <p>Dibuat karna iseng :)<p>
 </html>
